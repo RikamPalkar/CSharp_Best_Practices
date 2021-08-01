@@ -163,6 +163,7 @@ Properties
 	2. Avoid using complex logic in getters and setters
 	
 Auto implemented properties
+
 ![image](https://user-images.githubusercontent.com/36474843/127770507-99ac2a49-be54-46c6-945b-e1540ba83529.png)
 
 	Do's
@@ -174,26 +175,33 @@ Auto implemented properties
 
 Managing objects efficiently.
 
-		i. Initializing objects
-		○ Parameterized  constructors
-			□ Good when creating basic set of properties
+	i. Initializing objects
+	○ Parameterized  constructors
+		□ Good when creating basic set of properties
 ![image](https://user-images.githubusercontent.com/36474843/127770545-886f5ad7-fd97-4423-ba88-3518ac267c93.png)
 
-		○ Object Initializers
-			□ Good when initializing a subset or superset of properties
-			□ Good for readability
+	○ Object Initializers
+		□ Good when initializing a subset or superset of properties
+		□ Good for readability
 ![image](https://user-images.githubusercontent.com/36474843/127770559-ab3380fb-792f-4fe2-b95a-238d9c841d80.png)
 
-		○ Setting properties as an object
-			□ Good for populating from databases
-			□ Good for modifying properties
+	○ Setting properties as an object
+		□ Good for populating from databases
+		□ Good for modifying properties
 ![image](https://user-images.githubusercontent.com/36474843/127770575-7740107b-28b4-4746-b19d-f33f49d30522.png)
 
-		ii. Use Lazy loading for initializing objects.
-		iii. If Objects are needed only one time, consider instantiating an object within a method
+	ii. Use Lazy loading for initializing objects.
+	iii. If Objects are needed only one time, consider instantiating an object within a method
 ![image](https://user-images.githubusercontent.com/36474843/127770592-82fa5c51-e7c5-4a9e-95d3-97d1266fd83a.png)
 
+	iv. If Object is needed always, consider creating a property and initialize it in a default constructor
+![image](https://user-images.githubusercontent.com/36474843/127770650-885c0f77-13aa-4e55-9eca-ecb0bfcea6f5.png)
 
+	v. If Object is needed sometime, User getter to lazy load.
+![image](https://user-images.githubusercontent.com/36474843/127770661-7be737b1-8f57-48ff-bbcd-3f8301ef92ff.png)
+
+	vi. Always checking for null
+![image](https://user-images.githubusercontent.com/36474843/127770671-85f50930-930e-4b08-a93c-9f8c39db1ec9.png)
 
 
 
