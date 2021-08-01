@@ -99,13 +99,10 @@ Implementing Using Statements
 ![image](https://user-images.githubusercontent.com/36474843/127769975-b8d0522f-cc10-49e9-9ee3-8ff46ae54e7c.png)
 	
 
-	
-
 Singleton
 	
 	1. Only use when you know you need only one instance
 	
-
 Unit tests
 	
 	1. Have a practice to write unit tests for every method.
@@ -117,4 +114,42 @@ Unit tests
 	            //Assert
 		Assert.AreEqual(expectedPerson, result);
 
+
+Constant variables
+
+	1. Compile-time constant	
+	2. Assigned on declaration	
+	3. Only number, Boolean or string	
+	4. Always static
+	
+Read-Only variables
+	
+	1. Runtime constant
+	2. Assigned on declaration or constructor
+	3. Any data type
+	4. Optionally static
+
+	
+	Do's
+	1. Define meaningful names	Do not use uppercase/ abbreviations
+	2. Use PascalCase	
+	3. Use constants for compile-time	
+	4. Use constants for run-time
+	
+	Don'ts
+	1. Do not use uppercase/ abbreviations
+
+Properties 
+
+	provide flexible mechanism to do the following to private fields:
+		○ Read
+		○ Write
+		○ Compute it value
+		○ Accessors : Getters and Setters
+		○ Getters used for following 2 things :
+		○ Lazy loading -> It checks if Actor exist or not, if yes then it returns the same actor. Creates an object only if needed else it creates a new Actor.
+![image](https://user-images.githubusercontent.com/36474843/127770182-ad12acbf-04b6-4b80-b695-5595ccb2a6f1.png)
+
+		○ Validating incoming value -> Checking length of a name before assigning the value
+![image](https://user-images.githubusercontent.com/36474843/127770209-736bdd24-fbb2-4b09-8534-2a8e426b6757.png)
 
