@@ -3,8 +3,11 @@ This source code will give you hands on experience on how to use best practices 
 
 Standard of writing code	
 	1. Always use camelCase for private variables
+	
 	2. PascalCase for methods and properties
+	
 	3. Always have summary for variables, properties, methods and classes
+	
 	4. Don't use underscores, prefixes or abbreviations for naming  variables, properties, methods and classes
 	
 Properties
