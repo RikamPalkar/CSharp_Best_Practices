@@ -153,3 +153,47 @@ Properties
 		○ Validating incoming value -> Checking length of a name before assigning the value
 ![image](https://user-images.githubusercontent.com/36474843/127770209-736bdd24-fbb2-4b09-8534-2a8e426b6757.png)
 
+	Do's
+	1. Use relevant names
+	2. Use getters for simple protection, formatting and initializing
+	3. Use setters for simple protection, formatting and validation
+
+	Don't
+	1. Do not use abbreviations
+	2. Avoid using complex logic in getters and setters
+	
+Auto implemented properties
+![image](https://user-images.githubusercontent.com/36474843/127770507-99ac2a49-be54-46c6-945b-e1540ba83529.png)
+
+	Do's
+	1. Use relevant names
+	2. Initialize the property when needed
+
+	Don't
+	1. Do not use abbreviations
+
+Managing objects efficiently.
+
+		i. Initializing objects
+		○ Parameterized  constructors
+			□ Good when creating basic set of properties
+![image](https://user-images.githubusercontent.com/36474843/127770545-886f5ad7-fd97-4423-ba88-3518ac267c93.png)
+
+		○ Object Initializers
+			□ Good when initializing a subset or superset of properties
+			□ Good for readability
+![image](https://user-images.githubusercontent.com/36474843/127770559-ab3380fb-792f-4fe2-b95a-238d9c841d80.png)
+
+		○ Setting properties as an object
+			□ Good for populating from databases
+			□ Good for modifying properties
+![image](https://user-images.githubusercontent.com/36474843/127770575-7740107b-28b4-4746-b19d-f33f49d30522.png)
+
+		ii. Use Lazy loading for initializing objects.
+		iii. If Objects are needed only one time, consider instantiating an object within a method
+![image](https://user-images.githubusercontent.com/36474843/127770592-82fa5c51-e7c5-4a9e-95d3-97d1266fd83a.png)
+
+
+
+
+
