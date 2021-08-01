@@ -91,15 +91,14 @@ Implementing Using Statements
 
 	1. We know one use of using, which is importing namespaces. Let's explore what are the other areas we can take help of using statement.
 	2. We can use using block, it creates and manages the resource then disposes them up when it goes out of the scope.
-			○ Its best practice is to use for stream and database connection.
-			
-			○ Exception occurs when we try to access same resource which is already held by other object. In following example text file theAgency.txt is held by fs1. so fs2 throws an following exception.
-			![image](https://user-images.githubusercontent.com/36474843/127769679-4429444b-b736-42a1-a00b-115024c90511.png)
+	 ○ Its best practice is to use for stream and database connection.
+	 ○ Exception occurs when we try to access same resource which is already held by other object. In following example text file theAgency.txt is held by fs1. so fs2 throws an following exception. 
+![image](https://user-images.githubusercontent.com/36474843/127769943-4b637e15-e382-4d93-a1bd-77096d7679db.png)
 
-			
-			
-			○ So we need first close the resource so other objects can access. We can achieve this with Using block. It makes sure resource is cleared as soon as it leaves the block.
-		![image](https://user-images.githubusercontent.com/36474843/127769684-8e0487ca-c507-4b46-8d86-603b9d38b11b.png)
+	 ○ So we need first close the resource so other objects can access. We can achieve this with Using block. It makes sure resource is cleared as soon as it leaves the block.
+![image](https://user-images.githubusercontent.com/36474843/127769975-b8d0522f-cc10-49e9-9ee3-8ff46ae54e7c.png)
+	
+
 	
 
 Singleton
