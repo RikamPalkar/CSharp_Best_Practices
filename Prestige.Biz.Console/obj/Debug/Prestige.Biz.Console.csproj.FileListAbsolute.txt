@@ -1,0 +1,14 @@
+C:\Users\E258490\OneDrive - WFT\Documents\Learning\Linkedin Learning\BestPracticesForDevelopers\Prestige.Biz.Console\bin\Debug\Prestige.Biz.Console.exe.config
+C:\Users\E258490\OneDrive - WFT\Documents\Learning\Linkedin Learning\BestPracticesForDevelopers\Prestige.Biz.Console\bin\Debug\Prestige.Biz.Console.exe
+C:\Users\E258490\OneDrive - WFT\Documents\Learning\Linkedin Learning\BestPracticesForDevelopers\Prestige.Biz.Console\bin\Debug\Prestige.Biz.Console.pdb
+C:\Users\E258490\OneDrive - WFT\Documents\Learning\Linkedin Learning\BestPracticesForDevelopers\Prestige.Biz.Console\obj\Debug\Prestige.Biz.Console.csproj.AssemblyReference.cache
+C:\Users\E258490\OneDrive - WFT\Documents\Learning\Linkedin Learning\BestPracticesForDevelopers\Prestige.Biz.Console\obj\Debug\Prestige.Biz.Console.csproj.CoreCompileInputs.cache
+C:\Users\E258490\OneDrive - WFT\Documents\Learning\Linkedin Learning\BestPracticesForDevelopers\Prestige.Biz.Console\obj\Debug\Prestige.Biz.Console.exe
+C:\Users\E258490\OneDrive - WFT\Documents\Learning\Linkedin Learning\BestPracticesForDevelopers\Prestige.Biz.Console\obj\Debug\Prestige.Biz.Console.pdb
+C:\Users\E258490\OneDrive - WFT\Documents\Rikam\VS Study Projects\Book\Git\CSharp_Best_Practices\Prestige.Biz.Console\bin\Debug\Prestige.Biz.Console.exe.config
+C:\Users\E258490\OneDrive - WFT\Documents\Rikam\VS Study Projects\Book\Git\CSharp_Best_Practices\Prestige.Biz.Console\bin\Debug\Prestige.Biz.Console.exe
+C:\Users\E258490\OneDrive - WFT\Documents\Rikam\VS Study Projects\Book\Git\CSharp_Best_Practices\Prestige.Biz.Console\bin\Debug\Prestige.Biz.Console.pdb
+C:\Users\E258490\OneDrive - WFT\Documents\Rikam\VS Study Projects\Book\Git\CSharp_Best_Practices\Prestige.Biz.Console\obj\Debug\Prestige.Biz.Console.csproj.AssemblyReference.cache
+C:\Users\E258490\OneDrive - WFT\Documents\Rikam\VS Study Projects\Book\Git\CSharp_Best_Practices\Prestige.Biz.Console\obj\Debug\Prestige.Biz.Console.csproj.CoreCompileInputs.cache
+C:\Users\E258490\OneDrive - WFT\Documents\Rikam\VS Study Projects\Book\Git\CSharp_Best_Practices\Prestige.Biz.Console\obj\Debug\Prestige.Biz.Console.exe
+C:\Users\E258490\OneDrive - WFT\Documents\Rikam\VS Study Projects\Book\Git\CSharp_Best_Practices\Prestige.Biz.Console\obj\Debug\Prestige.Biz.Console.pdb

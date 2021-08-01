@@ -1,0 +1,6 @@
+C:\Users\E258490\OneDrive - WFT\Documents\Learning\Linkedin Learning\BestPracticesForDevelopers\Prestige.Common\bin\Debug\Prestige.Common.dll
+C:\Users\E258490\OneDrive - WFT\Documents\Learning\Linkedin Learning\BestPracticesForDevelopers\Prestige.Common\bin\Debug\Prestige.Common.pdb
+C:\Users\E258490\OneDrive - WFT\Documents\Learning\Linkedin Learning\BestPracticesForDevelopers\Prestige.Common\obj\Debug\Prestige.Common.csproj.AssemblyReference.cache
+C:\Users\E258490\OneDrive - WFT\Documents\Learning\Linkedin Learning\BestPracticesForDevelopers\Prestige.Common\obj\Debug\Prestige.Common.csproj.CoreCompileInputs.cache
+C:\Users\E258490\OneDrive - WFT\Documents\Learning\Linkedin Learning\BestPracticesForDevelopers\Prestige.Common\obj\Debug\Prestige.Common.dll
+C:\Users\E258490\OneDrive - WFT\Documents\Learning\Linkedin Learning\BestPracticesForDevelopers\Prestige.Common\obj\Debug\Prestige.Common.pdb

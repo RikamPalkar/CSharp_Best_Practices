@@ -1,0 +1,34 @@
+C:\Users\E258490\OneDrive - WFT\Documents\Learning\Linkedin Learning\BestPracticesForDevelopers\Prestige.BizTests\obj\Debug\Prestige.BizTests.csproj.AssemblyReference.cache
+C:\Users\E258490\OneDrive - WFT\Documents\Learning\Linkedin Learning\BestPracticesForDevelopers\Prestige.BizTests\obj\Debug\Prestige.BizTests.csproj.CoreCompileInputs.cache
+C:\Users\E258490\OneDrive - WFT\Documents\Learning\Linkedin Learning\BestPracticesForDevelopers\Prestige.BizTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\E258490\OneDrive - WFT\Documents\Learning\Linkedin Learning\BestPracticesForDevelopers\Prestige.BizTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\E258490\OneDrive - WFT\Documents\Learning\Linkedin Learning\BestPracticesForDevelopers\Prestige.BizTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\E258490\OneDrive - WFT\Documents\Learning\Linkedin Learning\BestPracticesForDevelopers\Prestige.BizTests\bin\Debug\Prestige.BizTests.dll
+C:\Users\E258490\OneDrive - WFT\Documents\Learning\Linkedin Learning\BestPracticesForDevelopers\Prestige.BizTests\bin\Debug\Prestige.BizTests.pdb
+C:\Users\E258490\OneDrive - WFT\Documents\Learning\Linkedin Learning\BestPracticesForDevelopers\Prestige.BizTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\E258490\OneDrive - WFT\Documents\Learning\Linkedin Learning\BestPracticesForDevelopers\Prestige.BizTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\E258490\OneDrive - WFT\Documents\Learning\Linkedin Learning\BestPracticesForDevelopers\Prestige.BizTests\bin\Debug\Prestige.Biz.Console.exe
+C:\Users\E258490\OneDrive - WFT\Documents\Learning\Linkedin Learning\BestPracticesForDevelopers\Prestige.BizTests\bin\Debug\Prestige.Biz.Console.pdb
+C:\Users\E258490\OneDrive - WFT\Documents\Learning\Linkedin Learning\BestPracticesForDevelopers\Prestige.BizTests\bin\Debug\Prestige.Biz.Console.exe.config
+C:\Users\E258490\OneDrive - WFT\Documents\Learning\Linkedin Learning\BestPracticesForDevelopers\Prestige.BizTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\E258490\OneDrive - WFT\Documents\Learning\Linkedin Learning\BestPracticesForDevelopers\Prestige.BizTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\E258490\OneDrive - WFT\Documents\Learning\Linkedin Learning\BestPracticesForDevelopers\Prestige.BizTests\obj\Debug\Prestige.BizTests.csproj.CopyComplete
+C:\Users\E258490\OneDrive - WFT\Documents\Learning\Linkedin Learning\BestPracticesForDevelopers\Prestige.BizTests\obj\Debug\Prestige.BizTests.dll
+C:\Users\E258490\OneDrive - WFT\Documents\Learning\Linkedin Learning\BestPracticesForDevelopers\Prestige.BizTests\obj\Debug\Prestige.BizTests.pdb
+C:\Users\E258490\OneDrive - WFT\Documents\Rikam\VS Study Projects\Book\Git\CSharp_Best_Practices\Prestige.BizTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\E258490\OneDrive - WFT\Documents\Rikam\VS Study Projects\Book\Git\CSharp_Best_Practices\Prestige.BizTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\E258490\OneDrive - WFT\Documents\Rikam\VS Study Projects\Book\Git\CSharp_Best_Practices\Prestige.BizTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\E258490\OneDrive - WFT\Documents\Rikam\VS Study Projects\Book\Git\CSharp_Best_Practices\Prestige.BizTests\bin\Debug\Prestige.BizTests.dll
+C:\Users\E258490\OneDrive - WFT\Documents\Rikam\VS Study Projects\Book\Git\CSharp_Best_Practices\Prestige.BizTests\bin\Debug\Prestige.BizTests.pdb
+C:\Users\E258490\OneDrive - WFT\Documents\Rikam\VS Study Projects\Book\Git\CSharp_Best_Practices\Prestige.BizTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\E258490\OneDrive - WFT\Documents\Rikam\VS Study Projects\Book\Git\CSharp_Best_Practices\Prestige.BizTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\E258490\OneDrive - WFT\Documents\Rikam\VS Study Projects\Book\Git\CSharp_Best_Practices\Prestige.BizTests\bin\Debug\Prestige.Biz.Console.exe
+C:\Users\E258490\OneDrive - WFT\Documents\Rikam\VS Study Projects\Book\Git\CSharp_Best_Practices\Prestige.BizTests\bin\Debug\Prestige.Biz.Console.pdb
+C:\Users\E258490\OneDrive - WFT\Documents\Rikam\VS Study Projects\Book\Git\CSharp_Best_Practices\Prestige.BizTests\bin\Debug\Prestige.Biz.Console.exe.config
+C:\Users\E258490\OneDrive - WFT\Documents\Rikam\VS Study Projects\Book\Git\CSharp_Best_Practices\Prestige.BizTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\E258490\OneDrive - WFT\Documents\Rikam\VS Study Projects\Book\Git\CSharp_Best_Practices\Prestige.BizTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\E258490\OneDrive - WFT\Documents\Rikam\VS Study Projects\Book\Git\CSharp_Best_Practices\Prestige.BizTests\obj\Debug\Prestige.BizTests.csproj.AssemblyReference.cache
+C:\Users\E258490\OneDrive - WFT\Documents\Rikam\VS Study Projects\Book\Git\CSharp_Best_Practices\Prestige.BizTests\obj\Debug\Prestige.BizTests.csproj.CoreCompileInputs.cache
+C:\Users\E258490\OneDrive - WFT\Documents\Rikam\VS Study Projects\Book\Git\CSharp_Best_Practices\Prestige.BizTests\obj\Debug\Prestige.BizTests.csproj.CopyComplete
+C:\Users\E258490\OneDrive - WFT\Documents\Rikam\VS Study Projects\Book\Git\CSharp_Best_Practices\Prestige.BizTests\obj\Debug\Prestige.BizTests.dll
+C:\Users\E258490\OneDrive - WFT\Documents\Rikam\VS Study Projects\Book\Git\CSharp_Best_Practices\Prestige.BizTests\obj\Debug\Prestige.BizTests.pdb
